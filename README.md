@@ -1,1 +1,1 @@
-# quant-lab
+# quant lab
